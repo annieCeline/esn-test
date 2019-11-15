@@ -73,6 +73,10 @@ body {
   margin-top: 25px;
 }
 
+.card-text{
+  color: #0069D9;
+}
+
 
 @media (min-width: 992px) {
   body {

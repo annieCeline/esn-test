@@ -1,0 +1,8 @@
+nomdumodule.nomaction:
+    path: /TestController
+    defaults:
+        _controller: esn-test\src\Controller\TestController::countriesArray
+        _title: 'Titre de la page'
+    requirements:
+        _permission: 'access content'
+        _permission: 'access all views'
